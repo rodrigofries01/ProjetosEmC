@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/rodri/Documents/GitHub/ProjetosEmC",
-      "program": "c:/Users/rodri/Documents/GitHub/ProjetosEmC/build/Debug/outDebug",
+      "cwd": "c:/Users/rodri/Documents/GitHub/ProjetosEmC/Funções Com Parametros",
+      "program": "c:/Users/rodri/Documents/GitHub/ProjetosEmC/Funções Com Parametros/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

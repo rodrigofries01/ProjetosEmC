@@ -1,15 +1,15 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void mostraSucessor(int numero){
-    printf("\nO sucessor de %d eh %d", numero , numero + 1);
+void mostraSucessor(int numero) {
+    printf("\nO sucessor de %d eh %d", numero, numero + 1);
 }
 
-int retornaAntecessor(int numero){
+int retornaAntecessor(int numero) {
     return numero - 1;
 }
 
-int main(){
+int main() {
     int a;
 
     printf("Digite um valor:");

@@ -1,8 +1,8 @@
 // Crie um algoritmo que leia 3 notas e calcule a média entre elas. Se o valor for maior que 7 informe que o aluno foi aprovado, senão foi reprovado.
-
+#include <stdlib.h>
 #include <stdio.h>
 
-void main()
+int main()
 {
   float Nota1, Nota2, Nota3, resultado;
 
@@ -19,4 +19,6 @@ void main()
   {
     printf("Voce tirou %.2f, nao atingiu a media, esta reprovado! \n", resultado);
   }
+
+  return 0;
 }

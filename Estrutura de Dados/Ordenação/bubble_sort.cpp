@@ -14,7 +14,7 @@ void imprime_vetor(int vetor[TAM])
 
     for (int i = 0; i < TAM; i++)
     {
-        cout << vetor[i] << "| ";
+        cout << " [" << vetor[i] << "]";
     }
     cout << "\n";
 }
